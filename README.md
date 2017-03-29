@@ -4,10 +4,9 @@
 
 Things you may want to cover:
 
-In Short:
-
-git clone https://github.com/railstutorial/sample_app_rails_4.git <br />
-cd sample_app_rails_4 <br />
+In Short:<br />
+git clone https://github.com/sunil16/Direct-to-S3-Image-Uploads-in-Rails-With-SecureRandom-uuid.git <br />
+cd Direct-to-S3-Image-Uploads-in-Rails-With-SecureRandom-uuid <br />
 $ bundle install --without production <br />
 $ rake db:migrate<br />
 $ rails s <br />
