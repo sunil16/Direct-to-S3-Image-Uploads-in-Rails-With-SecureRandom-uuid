@@ -29,9 +29,9 @@ Ruby 2.3.1p112 <br />
       S3_BUCKET =  AWS::S3.new.buckets[ENV['S3_BUCKET']]
 
   2) Directly by Terminal (Execute on Terminal).<br />
-  $ export AWS_ACCESS_KEY_ID=INSERT_YOUR_ACCESS_KEY_ID_HERE<br />
-  $ export AWS_SECRET_ACCESS_KEY=INSERT_YOUR_SECRET_KEY_HERE<br />
-  $ export S3_BUCKET=INSERT_YOUR_BUCKET_NAME  
+  $ export  AWS_ACCESS_KEY_ID=INSERT_YOUR_ACCESS_KEY_ID_HERE<br />
+  $ export  AWS_SECRET_ACCESS_KEY=INSERT_YOUR_SECRET_KEY_HERE<br />
+  $ export  S3_BUCKET=INSERT_YOUR_BUCKET_NAME  
 
   #restart your application  
 

@@ -6,6 +6,7 @@ AWS.config(
   S3_BUCKET =  AWS::S3.new.buckets[ENV['S3_BUCKET']]
 
 
+
 #   # example
 # AWS.config(
 #   :access_key_id => 'ABCDFGSHJTKLDJH',
