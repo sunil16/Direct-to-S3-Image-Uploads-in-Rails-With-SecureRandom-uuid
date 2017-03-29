@@ -7,9 +7,7 @@ Things you may want to cover:
 In Short:
 
 git clone https://github.com/railstutorial/sample_app_rails_4.git
-
 cd sample_app_rails_4
-
 $ bundle install --without production
 $ rake db:migrate
 $ rails s
