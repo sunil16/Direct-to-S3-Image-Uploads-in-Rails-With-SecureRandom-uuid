@@ -18,7 +18,7 @@ AWS.config(
 
 
 
-# open below code if you want to provide aws carediatial by Terminal
+# open below code if you want to provide aws credentials by Terminal
 
 # AWS.config(
 #   :access_key_id => ENV['AWS_ACCESS_KEY_ID'],
